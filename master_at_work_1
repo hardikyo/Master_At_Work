@@ -1,6 +1,6 @@
 {
-  "courseName": "Fork CPP",
-  "courseimg": "https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
-  "courseMode": "Online Batch",
-  "courseTracks": "6 Tracks"
+  "oncreatecustomtab": "1",
+  "onewebify": "1",
+  "qureka": "0",
+  "isvpnon": "0"
 }
